@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+.venv/
+
+
+# Configurações locais e IDE
+.vscode/
+.idea/
+.env
